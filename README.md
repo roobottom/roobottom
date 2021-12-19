@@ -1,8 +1,8 @@
 # Jon Roobottom
 
-Hi, I'm Jon a designer and web developer from England.
+Hi, I'm Jon a designer and web developer living on the south coast of England.
 
-## Me on the web
+## My web shiz
 
 * [My personal website](https://roobottom.com) where I experient with code and write about my life; it shuold not be read by anyone.
 * I run a small UCD consultancy, [Roodesign](https://roodesign.co.uk)
